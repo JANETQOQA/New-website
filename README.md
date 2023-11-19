@@ -1,5 +1,5 @@
 # New-website
 <h2>My life</h2>
 my lifetime
-my name is Janet and I am currently unemployed but looking. I love watching hindi movies.
-<img src="DP.jpg" alt="beauty queen"/>
+I am currently unemployed but looking for employment 
+<img src="Screenshot_20231119-094232_Google.jpg" alt="nails"
